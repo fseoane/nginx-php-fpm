@@ -32,4 +32,10 @@ The following are already installed and ready to use:
 | soap | **SOAP**: **S**imple **O**bject **A**ccess **P**rotocol library
 | xsl | **XSL**: e**X**stensible **S**tyling **L**anguage library
 | zip | **ZIP**: Transparently read and write ZIP compressed archives
+
+
+## Other (PECL) extensions installed
+The following are already installed and ready to use:
+| `pecl install -o -f `name | Description 
+|----|----|
 | ssh2 | **SSH2**: SSH protocol support for PHP  (ssh2_connect function and related ones)
