@@ -11,7 +11,7 @@ version: '2'
 
 services:
   nginx-php-fpm:
-    image: richarvey/nginx-php-fpm:latest
+    image: fseoane/nginx-php-fpm:latest
     restart: always
     environment:
       SSH_KEY: '<YOUR _KEY_HERE>'
